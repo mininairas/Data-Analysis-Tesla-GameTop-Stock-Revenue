@@ -1,6 +1,9 @@
 # ProjectCourse5Stock
 Analyzing Stock/Revenue Data/Building Dashboard
 
+Watson Studio Jupyter Notebook commands are available in the below link
+<a id='Project for Peer Review'>https://dataplatform.cloud.ibm.com/analytics/notebooks/v2/ba717620-837e-48a4-b630-dbaf0b7816b4/view?projectid=8bcd2b04-df79-486c-bf4e-6b92759d2f58&context=cpdaas</a>
+ 
 Full Points: Working code that yields correct results
 
 You will be graded on the dashboards displaying the specified data and the screenshots you took during the final project lab questions. There are 12 possible points for this assignment. Here is the breakdown:
